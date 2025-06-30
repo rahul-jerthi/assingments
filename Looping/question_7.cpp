@@ -21,7 +21,7 @@ int main(){
         cout<<"NUmber is prime";
     }
     else
-    cout<<"Number is not prin";
+    cout<<"Number is not prime";
     
     
 
